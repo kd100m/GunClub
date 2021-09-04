@@ -1,0 +1,19 @@
+import random
+
+Guns=['556 AR rifle','556 AR Pistol','308 AR rifle',	'556 Bullpup rifle',	'Pump Action 12 GA','Semi Auto Shotgun','30-06 Bolt Action Rifle','45 Submachine gun','9mm Submachine gun','762 AK rifle','762 AK Pistol','556 AK rifle','45 Lever Action']
+
+Optics=['Holographic', 'Flip-up Sights', 'Iron Sights', 'LPVO', 'Red Dot', 'Red Dot + Magnifier', 'Thermal Scope', '5-50x Scope', 'Night Vision Gear', 'Red Laser', 'Green Laser']
+
+Trigger=['Standard Semi', 'Binary', 'Full Auto','Forced Reset Trigger']
+
+Camo=['Black','Desert Tan','Digital Camo','Golden']
+
+Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent']
+
+
+def Gen_Loadout():
+  print(random.choice(Camo))
+  print(random.choice(Guns))
+  print(random.choice(Trigger))
+  print(random.choice(Optics))
+  print(random.choice(Character))
