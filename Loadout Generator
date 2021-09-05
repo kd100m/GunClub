@@ -11,11 +11,11 @@ Trigger=['Standard Semi', 'Binary Trigger', 'Full Auto','Forced Reset Trigger']
 
 Camo=['Black','Desert Tan','Digital Camo','Golden','Woodland Camo']
 
-Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent','Guerrilla','Cowboy']
+Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent','Guerrilla','Cowboy','Maverick']
 
 Alignment=['Saint', 'Criminal', 'Family Oriented', 'Money Motivated', 'Evil']
 
-Heal=['Bandage', 'Medkit', 'Ibuprofen', 'Acetaminophin']
+Heal=['Bandage', 'Medkit', 'Ibuprofen', 'Acetaminophin', 'Box of Tissues']
 
 
 
