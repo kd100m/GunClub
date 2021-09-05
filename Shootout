@@ -1,0 +1,7 @@
+import Random
+
+Multiplier=[1,1,1,1,1,2,2,2,5]
+
+print(random.choice(Multiplier))
+
+Total_Power=(Power*Multiplier)
