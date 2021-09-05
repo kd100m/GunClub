@@ -26,10 +26,10 @@ def Gen_Loadout():
   print(random.choice(Trigger))
   print(random.choice(Optics))
   print(random.choice(Character))
-  print(random.choice(Morality))
+  print(random.choice(Alignment))
   print(random.choice(Heal))
   global Power
-  Power=(randint(45,100))
+  Power=(random.randint(45,100))
   print("Power: "+str(Power))
   print('__________________')
   
