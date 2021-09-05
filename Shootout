@@ -7,3 +7,4 @@ def DrawMulti():
   global Total_Power
   Total_Power=(Power*Multiplier)
   print("Total Power: "+str(Total_Power))
+  print('__________________')
