@@ -28,7 +28,8 @@ def Gen_Loadout():
   print(random.choice(Character))
   print(random.choice(Morality))
   print(random.choice(Heal))
-  print("Power: "+str(randint(45, 100)))
+  Power=(randint(45,100))
+  print("Power: "+str(Power))
   print('__________________')
   
   
