@@ -1,14 +1,21 @@
 import random
 
-Guns=['556 AR rifle','556 AR Pistol','308 AR rifle',	'556 Bullpup rifle',	'Pump Action 12 GA','Semi Auto Shotgun','30-06 Bolt Action Rifle','45 Submachine gun','9mm Submachine gun','762 AK rifle','762 AK Pistol','556 AK rifle','45 Lever Action']
+###TRAITS - RARITY IS DECIDED RANDOMLY
 
-Optics=['Holographic', 'Flip-up Sights', 'Iron Sights', 'LPVO', 'Red Dot', 'Red Dot + Magnifier', 'Thermal Scope', '5-50x Scope', 'Night Vision Gear', 'Red Laser', 'Green Laser']
 
-Trigger=['Standard Semi', 'Binary', 'Full Auto','Forced Reset Trigger']
+Guns=['556 AR Rifle','556 AR Pistol','308 AR Rifle','308 AR Pistol','556 Bullpup Rifle','Pump Action 12 GA Shotgun','Semi-Auto 12GA Shotgun','30-06 Bolt Action Rifle','45 Submachine Gun','9mm Submachine Gun','762 AK Rifle','762 AK Pistol','556 AK Rifle','45 Lever Action Rifle']
 
-Camo=['Black','Desert Tan','Digital Camo','Golden']
+Optics=['Holographic Sight', 'Flip-up Sights', 'Iron Sights', 'Low Powered Variable Optic', 'Red Dot Sight', 'Red Dot Sight + Magnifier', 'Thermal Scope', '5-50x Scope', 'Night Vision Gear', 'Red Laser', 'Green Laser']
 
-Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent']
+Trigger=['Standard Semi', 'Binary Trigger', 'Full Auto','Forced Reset Trigger']
+
+Camo=['Black','Desert Tan','Digital Camo','Golden','Woodland Camo']
+
+Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent','Guerrilla','Cowboy']
+
+Alignment=['Saint', 'Criminal', 'Family Oriented', 'Money Motivated', 'Evil']
+
+
 
 
 def Gen_Loadout():
@@ -17,3 +24,16 @@ def Gen_Loadout():
   print(random.choice(Trigger))
   print(random.choice(Optics))
   print(random.choice(Character))
+  print(random.choice(Morality))
+  print("Power: "+str(randint(45, 100)))
+  print('__________________')
+  
+  
+i=1
+while i < 15:
+  Gen_Loadout()
+  i +=1
+  
+  
+  
+
