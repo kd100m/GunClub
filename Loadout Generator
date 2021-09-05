@@ -33,4 +33,7 @@ i=1
 while i < 15:
   Gen_Loadout()
   i +=1
+  
+  
+  
 
