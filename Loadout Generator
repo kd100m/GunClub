@@ -15,6 +15,8 @@ Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent','Guerril
 
 Alignment=['Saint', 'Criminal', 'Family Oriented', 'Money Motivated', 'Evil']
 
+Heal=['Bandage', 'Medkit', 'Ibuprofen', 'Acetaminophin']
+
 
 
 
@@ -25,6 +27,7 @@ def Gen_Loadout():
   print(random.choice(Optics))
   print(random.choice(Character))
   print(random.choice(Morality))
+  print(random.choice(Heal))
   print("Power: "+str(randint(45, 100)))
   print('__________________')
   
