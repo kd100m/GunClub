@@ -13,7 +13,7 @@ Camo=['Black','Desert Tan','Digital Camo','Golden','Woodland Camo']
 
 Character=['Hunter','Range Larp','Special Ops','Recruit','Double Agent','Guerrilla','Cowboy']
 
-Morality=['Saint', 'Criminal', 'Family Oriented', 'Money Motivated', 'Evil']
+Alignment=['Saint', 'Criminal', 'Family Oriented', 'Money Motivated', 'Evil']
 
 
 
