@@ -1,6 +1,6 @@
 import random
 
-#TRAITS - at the moment item rarity is 
+#TRAITS - at the moment gun rarity is about 1/14 (gun)/(total number of guns) 
 
 
 guns=['556 AR Rifle','556 AR Pistol','308 AR Rifle','308 AR Pistol','556 Bullpup Rifle',
