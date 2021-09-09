@@ -1,6 +1,6 @@
 import random
 
-map = ['Warehouse', 'Urban Sprawl', 'Savannah', 'Area 51', 'Jungle']
+map = ['Warehouse', 'Urban Sprawl', 'Savannah', 'Area 51', 'Jungle', 'Minefield']
 time_of_day = ['Night','Day']
 
 
