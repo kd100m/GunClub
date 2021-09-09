@@ -23,7 +23,7 @@ heal=['Bandage', 'Medkit', 'Ibuprofen', 'Acetaminophin', 'Box of Tissues']
 
 
 
-def Gen_Loadout():
+def gen_loadout():
   print(random.choice(camo))
   print(random.choice(guns))
   print(random.choice(trigger))
@@ -39,7 +39,7 @@ def Gen_Loadout():
   
 i=1
 while i < 15:
-  Gen_Loadout()
+  gen_loadout()
   i +=1
   
   
