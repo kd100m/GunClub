@@ -1,7 +1,7 @@
 # GunClub
 Like Loot but for the firearm community.
 
-What i'm attempting here draws inspiration from the Loot concept. Now, having never played, my idea may be completely different from the game mechanics of Loot.
+What I'm attempting here draws inspiration from the Loot concept. Now, having never played, my idea may be completely different from the game mechanics of Loot.
 
 Here's what I'm imagining.
   
