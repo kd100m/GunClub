@@ -10,8 +10,8 @@ Here's what I'm imagining....
   I would prefer to make an extremely inclusive play to earn game, think 
   
   Axie Infinity -
-       
-       I like the fact Axie provides an income for its players and is accessible to lower income players. I would like to model its success. 
+  
+  I like the fact Axie provides an income for its players and is accessible to lower income players. I would like to model its success. 
        
        
   Pokemon Cards(physical cards) *Expirimental* -
