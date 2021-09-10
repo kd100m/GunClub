@@ -10,13 +10,13 @@ Here's what I'm imagining....
   I would prefer to make an extremely inclusive play to earn game, think 
   
   Axie Infinity -
-                  I like the fact Axie provides an income for its players and is accessible to lower income players. I would like to model its success. 
+       
+       I like the fact Axie provides an income for its players and is accessible to lower income players. I would like to model its success. 
        
        
   Pokemon Cards(physical cards) *Expirimental* -
                     
-                   I like the idea of a physical representation of the NFT to lure non-crypto people into the game. Not exactly sure the
-                   mechanics of it all. 
+        I like the idea of a physical representation of the NFT to lure non-crypto people into the game. Not exactly sure the mechanics of it all. 
   
   
   War (the card game) - 
@@ -40,8 +40,7 @@ Here's what I'm imagining....
   
   Call of Duty -
                  
-                 Well it is a game about guns, I think long range weapons should fare better in larger maps, short range/shorter 
-                 barrel guns are more ideal in smaller maps.
+    Well it is a game about guns, I think long range weapons should fare better in larger maps, short range/shorter barrel guns are more ideal in smaller maps.
   
   
   I'm imagining the mint happens on Polygon. I'd like to minimize the cost to play yet still having gameplay data/outcomes occur on-chain. 
