@@ -14,19 +14,18 @@ Here's what I'm imagining....
   I like the fact Axie provides an income for its players and is accessible to lower income players. I would like to model its success. 
        
        
-  Pokemon Cards(physical cards) *Expirimental* -
+  Pokemon Cards(physical cards) *Experimental* -
                     
-        I like the idea of a physical representation of the NFT to lure non-crypto people into the game. Not exactly sure the mechanics of it all. 
+I like the idea of a physical representation of the NFT to lure non-crypto people into the game. Not exactly sure the mechanics of it all. 
   
   
   War (the card game) - 
         
-                  The game where the you have a deck of shuffled cards split between players. players flip a card and the player with the
-                  highest value card wins. 
+The game where the you have a deck of shuffled cards split between players. players flip a card and the player with the highest value card wins. 
                   
-                  I like the randomness element because this keeps the game fair, I'm hoping to avoid a Pay-to-Win situation. 
+I like the randomness element because this keeps the game fair, I'm hoping to avoid a Pay-to-Win situation. 
                   
-                    introducing the games core element Shootout
+Introducing the games core element Shootout -
                         
                       essentially each player's (power score) is multiplied by a randomly selected (score multiplier). The Player with highest value wins. 
                            
